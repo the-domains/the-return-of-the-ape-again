@@ -1,0 +1,28 @@
+name: The return of the ape again
+favicon: null
+layout_spectrum: 0.9685461719054729
+typography_spectrum: 0.28176529007032514
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7524924066383392
+  lightness: 0.2768431829754263
+  saturation: 0.9109682277776301
+  rhythmicContrast: 0.14000215684063733
+purpose: []
